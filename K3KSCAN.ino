@@ -6,7 +6,7 @@
 bool REGION = true; //I AM ONLY HERE TO SHOW AND HIDE CODE
 bool debug = false; //PRINT INFORMATIONS TO CONSOLE
 String version = "V2.0.0";
-String last_change = "2023-12-26-1621";
+String last_change = "2023-12-26-2144";
 
 #include <ESP8266WiFi.h>
 #include <WiFiClient.h>
