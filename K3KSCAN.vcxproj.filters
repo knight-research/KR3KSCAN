@@ -24,5 +24,8 @@
     <ClInclude Include="..\..\..\..\Desktop\SCANNER_DOKUMENTATION\V2020-08-004\html_pages.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="__vm\.KR3KSCAN.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
