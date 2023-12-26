@@ -58,7 +58,7 @@ void setup(void) {
     Serial.println("");
     Serial.print("Setting soft-AP ... ");
     Serial.println("open 192.168.4.1 on your browser");
-    boolean result = WiFi.softAP("K3000_V2020-08_004", "Comtron1234");
+    boolean result = WiFi.softAP(version, "Comtron1234");
     if (result == true)
     {
         Serial.println("Ready");
